@@ -173,8 +173,8 @@ li {
     color: #777;
     font-weight: bold;
     padding: 10px 20px;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    max-width: fit-content;
+    margin: 10px auto 20px;
 }
 .container .b2:hover{
     background-color: var(--pale-blue);
